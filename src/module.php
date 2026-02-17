@@ -8,3 +8,11 @@ function module(){
 function module2(){
     echo "module function is in working stage";
 }
+
+function greet( ){
+    return "hello ";
+}
+
+function newFunction( ){
+    return "something is new ";
+}
