@@ -6,6 +6,7 @@
 
 
  function greeting($name){
+<<<<<<< HEAD
     echo "hello Mr. ".$name."! how are you \n";
  }
 
@@ -24,3 +25,9 @@
 
 
  
+=======
+    echo "hello Mr. ".$name."howt are you ";
+ }
+
+ greeting($name);
+>>>>>>> a33264c96aa5572a53d520e2adcb283693d4dfcd
